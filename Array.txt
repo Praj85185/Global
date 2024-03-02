@@ -1,1 +1,7 @@
 Array Programs
+1. 
+2. 
+<<<<<<< HEAD
+=======
+3. 
+>>>>>>> c4313b7a1cab2a5ceae7e7b9fc216f189b5e0918
