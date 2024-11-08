@@ -1,1 +1,0 @@
-Strings are immutable things in Java
